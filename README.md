@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://timelinecovers.pro/facebook-cover/download/business-software-coding-code-igniter-facebook-cover.jpg)]
 <h1 align="center">Hi 👋, I'm Rafiqul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400"  src="">
+<img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafibd500&label=Profile%20views&color=0e75b6&style=flat" alt="rafibd500" /> </p>
 
